@@ -1,0 +1,7 @@
+{
+  "name": "kadai0419",
+  "private": true,
+  "dependencies": {
+    "bootstrap": "4"
+  }
+}
